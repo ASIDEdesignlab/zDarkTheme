@@ -31,7 +31,7 @@ A true dark theme for [FontForge](http://fontforge.github.io/) carefully created
 </p>
 
 ## Pending Improvements
-During the `zDarkTheme` creation process, I found few things that can improve its integration, but implement them requires a programing knowledge out of my basic skills. It only remains to wait for a future [FontForge](https://github.com/fontforge) update. For more details, check [IMPROVEMENTS](https://github.com/ASIDEdesignlab/zDarkTheme/blob/0d13d4860c186100c2a394a2f2232a45a3e47527/Support/IMPROVEMENTS.md)
+During the `zDarkTheme` creation process, I found few things that can improve its integration, but implement them requires a programing knowledge out of my basic skills. It only remains to wait for a future [FontForge](https://github.com/fontforge) update. For more details, check [IMPROVEMENTS](https://github.com/ASIDEdesignlab/zDarkTheme/blob/0d13d4860c186100c2a394a2f2232a45a3e47527/Support/IMPROVEMENTS.md), or [here](https://github.com/fontforge/fontforge/discussions/4757)
 
 >NOTE  
 >Native macOS dark mode implementation is limited, but the below Terminal command will force launch the app in dark mode:  
