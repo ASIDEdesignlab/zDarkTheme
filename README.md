@@ -10,7 +10,7 @@ A true dark theme for [FontForge](http://fontforge.github.io/) carefully created
 * Cleaned pixmaps folder with only tested icons and required files. 
 * Pixel-perfect adjust for an optimal and clear view.
 * Rebuilt version for old and repeated icons included in a separate folder for convenience.
-* Extra icons to improve zDark Theme integration in future [FontForge](https://github.com/fontforge) releases.
+* Extra icons to improve zDarkTheme integration in future [FontForge](https://github.com/fontforge) releases.
 
 ## Installation
 | :warning: | **Before anything, PLEASE BACK UP YOUR CURRENT PIXMAPS FOLDER. This way, you can always back to the previous state.**|
