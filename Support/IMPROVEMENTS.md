@@ -37,7 +37,8 @@ Below a list of files icnos that seem not used:
 | ffsplash1.png          | text12210.png    | skew.png                    |
 | ffsplash2.png          | wireframe.png    | splash2019.png              |
 | ffsplash3.png          |                  | rmoverlap.png*              |
-> `rmoverlap.png` is in use, but is duplicated.
+
+> `rmoverlap.png` is in use, but is duplicate of `overlaprm.png`
 
 ### Apply the same icon for the same options on all views.
 Apply icon file viewlayers.png to `Layers` menu option on MetricsView.

@@ -31,7 +31,7 @@ A true dark theme for [FontForge](http://fontforge.github.io/) carefully created
 </p>
 
 ## Pending Improvements
-During the `zDarkTheme` creation process, I found few things that can improve its integration, but implement them requires a programing knowledge out of my basic skills. It only remains to wait for a future [FontForge](https://github.com/fontforge) update. For more details, check [IMPROVEMENTS](https://github.com/ASIDEdesignlab/zDarkTheme/blob/a7e767f8dfa4cc53b858297f50233da34aedee53/Support/IMPROVEMENTS.md)
+During the `zDarkTheme` creation process, I found few things that can improve its integration, but implement them requires a programing knowledge out of my basic skills. It only remains to wait for a future [FontForge](https://github.com/fontforge) update. For more details, check [IMPROVEMENTS](https://github.com/ASIDEdesignlab/zDarkTheme/blob/0d13d4860c186100c2a394a2f2232a45a3e47527/Support/IMPROVEMENTS.md)
 
 >NOTE  
 >Native macOS dark mode implementation is limited, but the below Terminal command will force launch the app in dark mode:  
@@ -42,4 +42,4 @@ During the `zDarkTheme` creation process, I found few things that can improve it
 I'm all ears to your suggestions and please, let me know if you help or found any issues. If you like it, I'll appreciate your comment. **Thanks, and spread the word!** :loudspeaker:
 
 ## License
-Check [LICENSE](https://github.com/ASIDEdesignlab/zDarkTheme/blob/a7e767f8dfa4cc53b858297f50233da34aedee53/LICENSE) for more details on the licence.
+Check [LICENSE](https://github.com/ASIDEdesignlab/zDarkTheme/blob/0d13d4860c186100c2a394a2f2232a45a3e47527/LICENSE) for more details on the licence.
